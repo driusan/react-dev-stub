@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "babel jsx -d js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-transform-react-jsx": "*"
+  }
+}
